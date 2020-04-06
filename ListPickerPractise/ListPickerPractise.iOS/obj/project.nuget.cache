@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZE98hYCr4ZeWb9w5ztOFTWZLTwb4j/oKni0z6WSKDTYHnEYm6foRYwExJDy/4WCn1IZF0tiNHtgMPvHSoql+xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santosh\\source\\repos\\ListPickerPractise\\ListPickerPractise\\ListPickerPractise.iOS\\ListPickerPractise.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santosh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}

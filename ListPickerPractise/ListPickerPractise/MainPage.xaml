@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ListPickerPractise.MainPage" BackgroundColor="Black" Title="Dancers">
+
+
+    <StackLayout>
+        <Button x:Name="btncourse" Text="click"/>
+        <ListView x:Name="lbdjlist" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding DjPhoto}" HeightRequest="80" WidthRequest="80"/>
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding DjAlubum}" TextColor="White" FontSize="Title"/>
+                                    <Label Text="{Binding Djcollections}" TextColor="White" FontSize="Body"/>
+                                    
+                                </StackLayout>
+                                
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
+        </StackLayout>
+
+</ContentPage>

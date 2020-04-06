@@ -1,0 +1,15 @@
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\bin\Debug\netstandard2.0\ListPickerPractise.deps.json
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\bin\Debug\netstandard2.0\ListPickerPractise.dll
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\bin\Debug\netstandard2.0\ref\ListPickerPractise.dll
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\bin\Debug\netstandard2.0\ListPickerPractise.pdb
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\ListPickerPractise.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\ListPickerPractise.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\ListPickerPractise.AssemblyInfo.cs
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\ListPickerPractise.dll
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\ref\ListPickerPractise.dll
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\ListPickerPractise.pdb
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\Direction.xaml.g.cs
+C:\Users\santosh\source\repos\ListPickerPractise\ListPickerPractise\ListPickerPractise\obj\Debug\netstandard2.0\DJDetailsPage.xaml.g.cs
